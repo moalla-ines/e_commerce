@@ -83,7 +83,8 @@
               <button type="submit" class="btn btn-dark btn-block w-100 mb-3">Login</button>
               
               <div class="text-center">
-                <p class="mb-0">Don't have an account? <a href="register.php">Register here</a></p>
+                <p class="mb-0">Don't have an account? <a href="inscription.php">Register here</a></p>
+
               </div>
             </form>
           </div>
